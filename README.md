@@ -1,3 +1,9 @@
+# knowledge_graph
+
+学习知识图谱  
+背景：金融  
+获取数据工具：[tushare](https://tushare.pro/register?reg=326899)  
+
 ### Neo4j
 + 它包括如下几个显著特点:
 + 完整的ACID支持
